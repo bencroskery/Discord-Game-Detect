@@ -1,0 +1,21 @@
+{
+  "name": "discord-game-detect",
+  "version": "1.0.0",
+  "description": "A Discord Bot to autodetect the game played in a voice channel and change the name.",
+  "main": "botBOI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "bencroskery",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js"
+  }
+}
