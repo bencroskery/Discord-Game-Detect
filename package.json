@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bencroskery/Discord-Game-Detect"
   },
   "author": "bencroskery",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/bencroskery/Discord-Game-Detect/issues"
   },
   "dependencies": {
     "discord.js": "github:hydrabolt/discord.js"
