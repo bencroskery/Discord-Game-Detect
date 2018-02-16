@@ -4,7 +4,7 @@
   "description": "A Discord Bot to autodetect the game played in a voice channel and change the name.",
   "main": "botBOI.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node botBOI.js"
   },
   "repository": {
     "type": "git",
